@@ -1,0 +1,12 @@
+#ignorar class
+*.class
+#ignorar arquivos de log
+*.log
+#ignore /bin/
+bin/
+#ignore /class/
+class/
+#ignore .docx, .pdf,doc
+*.docx
+*.pdf
+*.doc
